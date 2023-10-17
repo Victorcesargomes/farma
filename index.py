@@ -5,10 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 from dash_bootstrap_templates import ThemeSwitchAIO
-import calendar
-import locale
 
-from app import *
 
 from dash import callback_context
 
