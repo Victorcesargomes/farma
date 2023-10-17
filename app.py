@@ -12,6 +12,13 @@ from dash import callback_context
 from components import contadorgpt
 # xhave chat gpt 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
 
+FONT_AWESOME = ["https://use.fontawesome.com/releases/v5.10.2/css/all.css"]
+
+app = dash.Dash(__name__, external_stylesheets=FONT_AWESOME, suppress_callback_exceptions=True)
+
+app.scripts.config.serve_locally = True
+server = app.server
+
 # ========== Styles ============ #
 
 template_theme1 = "flatly" 
