@@ -245,15 +245,6 @@ app.layout = dbc.Container(children=[
 
 # ======== Callbacks ========== #
 
-# Atualiza a página 
-@app.callback(
-        Output('page-content', 'children'),
-        Input('url', 'pathname')
-)
-def render_page(pathname):
-    if pathname == '/' or pathname =='/chatgpt':
-        
-        return contadorgpt.layout
 
 # Faturamento Total
 @app.callback(
