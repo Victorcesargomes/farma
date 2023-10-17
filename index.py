@@ -7,7 +7,6 @@ import pandas as pd
 from dash_bootstrap_templates import ThemeSwitchAIO
 import calendar
 import locale
-from babel.dates import format_date
 
 from app import *
 
