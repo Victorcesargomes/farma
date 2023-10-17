@@ -9,7 +9,6 @@ from dash_bootstrap_templates import ThemeSwitchAIO
 
 from dash import callback_context
 
-from components import contadorgpt
 # xhave chat gpt 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
 
 FONT_AWESOME = ["https://use.fontawesome.com/releases/v5.10.2/css/all.css"]
