@@ -1,0 +1,553 @@
+ano,mês,produto,preco_venda,quantidade_vendida,faturamento
+2022,1,Cimegripe,12,25,300
+2022,1,Neosoro AD,6,32,192
+2022,1,Maxalgina,15,15,225
+2022,1,Dipirona Sódica,5,12,60
+2022,1,Dorflex,17,300,5100
+2022,1,Ciclo 21,8,15,120
+2022,1,Novalgina,20,22,440
+2022,1,Glifage XR,9,25,225
+2022,1,Losartana Potassica,4,12,48
+2022,1,Cit. Sildenafila,5,15,75
+2022,1,Puran T4,19,33,627
+2022,1,Torsilax,11,85,1003
+2022,1,Loratamed,20,69,1380
+2022,1,Sorimax,8,78,624
+2022,1,Salonpas,17,44,748
+2022,1,Aradois,10,32,320
+2022,1,Hidroclorotiazida,3,32,96
+2022,1,Dipimed,5,60,300
+2022,1,Buscopan Composto,20,150,3132
+2022,1,Vick Vaporub,10,78,849
+2022,1,OZEMIC,972,3,2916
+2022,1,Saxenda,700,2,1400
+2022,1,Desodorante Rexona,18,32,576
+2022,1,Desodorante Dove,20,22,440
+2022,1,Fralda Huggies,40,15,600
+2022,1,Ivermectina VMC,20,16,320
+2022,1,Hidratante Labial Nivea,30,7,210
+2022,1,Xampu Pantene,18,12,216
+2022,1,Xampu Elseve,22,8,176
+2022,1,Xampu Dove,25,8,200
+2022,1,Xampu Clear,22,9,198
+2022,1,Xampu Seda,14,7,98
+2022,1,Xampu Doctor,33,12,396
+2022,1,Xampu Palmolive,21,15,315
+2022,1,Alcool em Gel,15,11,165
+2022,1,Escova de Dente,7,2,14
+2022,1,Absorvente ,8,3,24
+2022,1,Lenço umidecido,10,25,250
+2022,1,Condicionador Pantene,15,8,120
+2022,1,Condicionador Elseve,13,5,65
+2022,1,Condicionador Dove,14,8,112
+2022,1,Condicionador Clear,15,9,135
+2022,1,Condicionador Seda,11,5,55
+2022,1,Condicionador Doctor,22,12,264
+2022,1,Condicionador Palmolive,11,7,77
+2022,1,Glimatin 400mg,1500,2,3000
+2022,2,Cimegripe,12,30,360
+2022,2,Neosoro AD,6,36,216
+2022,2,Maxalgina,15,25,375
+2022,2,Dipirona Sódica,5,33,165
+2022,2,Dorflex,17,33,561
+2022,2,Ciclo 21,8,15,120
+2022,2,Novalgina,20,33,660
+2022,2,Glifage XR,9,2,18
+2022,2,Losartana Potassica,4,65,260
+2022,2,Cit. Sildenafila,5,25,125
+2022,2,Puran T4,19,32,608
+2022,2,Torsilax,11,15,177
+2022,2,Loratamed,20,12,240
+2022,2,Sorimax,8,300,2400
+2022,2,Salonpas,17,15,255
+2022,2,Aradois,10,22,220
+2022,2,Hidroclorotiazida,3,25,75
+2022,2,Dipimed,5,12,60
+2022,2,Buscopan Composto,20,15,313
+2022,2,Vick Vaporub,10,33,359
+2022,2,OZEMIC,972,85,82620
+2022,2,Saxenda,700,69,48300
+2022,2,Desodorante Rexona,18,78,1404
+2022,2,Desodorante Dove,20,44,880
+2022,2,Fralda Huggies,40,32,1280
+2022,2,Ivermectina VMC,20,32,640
+2022,2,Hidratante Labial Nivea,30,60,1800
+2022,2,Xampu Pantene,18,150,2700
+2022,2,Xampu Elseve,22,78,1716
+2022,2,Xampu Dove,25,3,75
+2022,2,Xampu Clear,22,2,44
+2022,2,Xampu Seda,14,32,448
+2022,2,Xampu Doctor,33,22,726
+2022,2,Xampu Palmolive,21,15,315
+2022,2,Alcool em Gel,15,16,240
+2022,2,Escova de Dente,7,7,49
+2022,2,Absorvente ,8,12,96
+2022,2,Lenço umidecido,10,8,80
+2022,2,Condicionador Pantene,15,8,120
+2022,2,Condicionador Elseve,13,9,117
+2022,2,Condicionador Dove,14,7,98
+2022,2,Condicionador Clear,15,12,180
+2022,2,Condicionador Seda,11,15,165
+2022,2,Condicionador Doctor,22,11,242
+2022,2,Condicionador Palmolive,11,2,22
+2022,2,Glimatin 400mg,1500,3,4500
+2022,3,Cimegripe,12,25,300
+2022,3,Neosoro AD,6,8,48
+2022,3,Maxalgina,15,5,75
+2022,3,Dipirona Sódica,5,8,40
+2022,3,Dorflex,17,9,153
+2022,3,Ciclo 21,8,5,40
+2022,3,Novalgina,20,12,240
+2022,3,Glifage XR,9,7,63
+2022,3,Losartana Potassica,4,2,8
+2022,3,Cit. Sildenafila,5,30,150
+2022,3,Puran T4,19,36,684
+2022,3,Torsilax,11,25,295
+2022,3,Loratamed,20,33,660
+2022,3,Sorimax,8,33,264
+2022,3,Salonpas,17,15,255
+2022,3,Aradois,10,33,330
+2022,3,Hidroclorotiazida,3,2,6
+2022,3,Dipimed,5,65,325
+2022,3,Buscopan Composto,20,25,522
+2022,3,Vick Vaporub,10,32,348
+2022,3,OZEMIC,972,15,14580
+2022,3,Saxenda,700,12,8400
+2022,3,Desodorante Rexona,18,300,5400
+2022,3,Desodorante Dove,20,15,300
+2022,3,Fralda Huggies,40,22,880
+2022,3,Ivermectina VMC,20,25,500
+2022,3,Hidratante Labial Nivea,30,12,360
+2022,3,Xampu Pantene,18,15,270
+2022,3,Xampu Elseve,22,33,726
+2022,3,Xampu Dove,25,85,2125
+2022,3,Xampu Clear,22,69,1518
+2022,3,Xampu Seda,14,78,1092
+2022,3,Xampu Doctor,33,44,1452
+2022,3,Xampu Palmolive,21,32,672
+2022,3,Alcool em Gel,15,32,480
+2022,3,Escova de Dente,7,60,420
+2022,3,Absorvente ,8,150,1200
+2022,3,Lenço umidecido,10,78,780
+2022,3,Condicionador Pantene,15,3,45
+2022,3,Condicionador Elseve,13,2,26
+2022,3,Condicionador Dove,14,32,448
+2022,3,Condicionador Clear,15,22,330
+2022,3,Condicionador Seda,11,15,165
+2022,3,Condicionador Doctor,22,16,352
+2022,3,Condicionador Palmolive,11,7,77
+2022,3,Glimatin 400mg,1500,12,18000
+2022,4,Cimegripe,12,8,96
+2022,4,Neosoro AD,6,8,48
+2022,4,Maxalgina,15,9,135
+2022,4,Dipirona Sódica,5,7,35
+2022,4,Dorflex,17,12,204
+2022,4,Ciclo 21,8,15,120
+2022,4,Novalgina,20,11,220
+2022,4,Glifage XR,9,2,18
+2022,4,Losartana Potassica,4,25,100
+2022,4,Cit. Sildenafila,5,32,160
+2022,4,Puran T4,19,15,285
+2022,4,Torsilax,11,12,141
+2022,4,Loratamed,20,300,6000
+2022,4,Sorimax,8,15,120
+2022,4,Salonpas,17,22,374
+2022,4,Aradois,10,25,250
+2022,4,Hidroclorotiazida,3,12,36
+2022,4,Dipimed,5,15,75
+2022,4,Buscopan Composto,20,33,689
+2022,4,Vick Vaporub,10,85,925
+2022,4,OZEMIC,972,69,67068
+2022,4,Saxenda,700,78,54600
+2022,4,Desodorante Rexona,18,44,792
+2022,4,Desodorante Dove,20,32,640
+2022,4,Fralda Huggies,40,32,1280
+2022,4,Ivermectina VMC,20,60,1200
+2022,4,Hidratante Labial Nivea,30,150,4500
+2022,4,Xampu Pantene,18,78,1404
+2022,4,Xampu Elseve,22,3,66
+2022,4,Xampu Dove,25,2,50
+2022,4,Xampu Clear,22,32,704
+2022,4,Xampu Seda,14,22,308
+2022,4,Xampu Doctor,33,15,495
+2022,4,Xampu Palmolive,21,16,336
+2022,4,Alcool em Gel,15,7,105
+2022,4,Escova de Dente,7,12,84
+2022,4,Absorvente ,8,8,64
+2022,4,Lenço umidecido,10,8,80
+2022,4,Condicionador Pantene,15,9,135
+2022,4,Condicionador Elseve,13,7,91
+2022,4,Condicionador Dove,14,12,168
+2022,4,Condicionador Clear,15,15,225
+2022,4,Condicionador Seda,11,11,121
+2022,4,Condicionador Doctor,22,2,44
+2022,4,Condicionador Palmolive,11,3,33
+2022,4,Glimatin 400mg,1500,25,37500
+2022,5,Cimegripe,12,8,96
+2022,5,Neosoro AD,6,5,30
+2022,5,Maxalgina,15,8,120
+2022,5,Dipirona Sódica,5,9,45
+2022,5,Dorflex,17,5,85
+2022,5,Ciclo 21,8,12,96
+2022,5,Novalgina,20,7,140
+2022,5,Glifage XR,9,2,18
+2022,5,Losartana Potassica,4,30,120
+2022,5,Cit. Sildenafila,5,36,180
+2022,5,Puran T4,19,25,475
+2022,5,Torsilax,11,33,389
+2022,5,Loratamed,20,33,660
+2022,5,Sorimax,8,15,120
+2022,5,Salonpas,17,33,561
+2022,5,Aradois,10,2,20
+2022,5,Hidroclorotiazida,3,65,195
+2022,5,Dipimed,5,25,125
+2022,5,Buscopan Composto,20,32,668
+2022,5,Vick Vaporub,10,15,163
+2022,5,OZEMIC,972,12,11664
+2022,5,Saxenda,700,300,210000
+2022,5,Desodorante Rexona,18,15,270
+2022,5,Desodorante Dove,20,22,440
+2022,5,Fralda Huggies,40,25,1000
+2022,5,Ivermectina VMC,20,12,240
+2022,5,Hidratante Labial Nivea,30,15,450
+2022,5,Xampu Pantene,18,33,594
+2022,5,Xampu Elseve,22,85,1870
+2022,5,Xampu Dove,25,69,1725
+2022,5,Xampu Clear,22,78,1716
+2022,5,Xampu Seda,14,44,616
+2022,5,Xampu Doctor,33,32,1056
+2022,5,Xampu Palmolive,21,32,672
+2022,5,Alcool em Gel,15,60,900
+2022,5,Escova de Dente,7,150,1050
+2022,5,Absorvente ,8,78,624
+2022,5,Lenço umidecido,10,3,30
+2022,5,Condicionador Pantene,15,2,30
+2022,5,Condicionador Elseve,13,32,416
+2022,5,Condicionador Dove,14,22,308
+2022,5,Condicionador Clear,15,15,225
+2022,5,Condicionador Seda,11,16,176
+2022,5,Condicionador Doctor,22,7,154
+2022,5,Condicionador Palmolive,11,12,132
+2022,5,Glimatin 400mg,1500,8,12000
+2022,6,Cimegripe,12,8,96
+2022,6,Neosoro AD,6,9,54
+2022,6,Maxalgina,15,7,105
+2022,6,Dipirona Sódica,5,12,60
+2022,6,Dorflex,17,15,255
+2022,6,Ciclo 21,8,11,88
+2022,6,Novalgina,20,2,40
+2022,6,Glifage XR,9,3,27
+2022,6,Losartana Potassica,4,25,100
+2022,6,Cit. Sildenafila,5,8,40
+2022,6,Puran T4,19,5,95
+2022,6,Torsilax,11,8,94
+2022,6,Loratamed,20,9,180
+2022,6,Sorimax,8,5,40
+2022,6,Salonpas,17,12,204
+2022,6,Aradois,10,7,70
+2022,6,Hidroclorotiazida,3,2,6
+2022,6,Dipimed,5,30,150
+2022,6,Buscopan Composto,20,36,751
+2022,6,Vick Vaporub,10,25,272
+2022,6,OZEMIC,972,33,32076
+2022,6,Saxenda,700,33,23100
+2022,6,Desodorante Rexona,18,15,270
+2022,6,Desodorante Dove,20,33,660
+2022,6,Fralda Huggies,40,2,80
+2022,6,Ivermectina VMC,20,65,1300
+2022,6,Hidratante Labial Nivea,30,25,750
+2022,6,Xampu Pantene,18,32,576
+2022,6,Xampu Elseve,22,15,330
+2022,6,Xampu Dove,25,12,300
+2022,6,Xampu Clear,22,300,6600
+2022,6,Xampu Seda,14,15,210
+2022,6,Xampu Doctor,33,22,726
+2022,6,Xampu Palmolive,21,25,525
+2022,6,Alcool em Gel,15,12,180
+2022,6,Escova de Dente,7,15,105
+2022,6,Absorvente ,8,33,264
+2022,6,Lenço umidecido,10,85,850
+2022,6,Condicionador Pantene,15,69,1035
+2022,6,Condicionador Elseve,13,78,1014
+2022,6,Condicionador Dove,14,44,616
+2022,6,Condicionador Clear,15,32,480
+2022,6,Condicionador Seda,11,32,352
+2022,6,Condicionador Doctor,22,60,1320
+2022,6,Condicionador Palmolive,11,150,1650
+2022,6,Glimatin 400mg,1500,78,117000
+2022,7,Cimegripe,12,3,36
+2022,7,Neosoro AD,6,2,12
+2022,7,Maxalgina,15,32,480
+2022,7,Dipirona Sódica,5,22,110
+2022,7,Dorflex,17,15,255
+2022,7,Ciclo 21,8,16,128
+2022,7,Novalgina,20,7,140
+2022,7,Glifage XR,9,12,108
+2022,7,Losartana Potassica,4,8,32
+2022,7,Cit. Sildenafila,5,8,40
+2022,7,Puran T4,19,9,171
+2022,7,Torsilax,11,7,82
+2022,7,Loratamed,20,12,240
+2022,7,Sorimax,8,15,120
+2022,7,Salonpas,17,11,187
+2022,7,Aradois,10,2,20
+2022,7,Hidroclorotiazida,3,25,75
+2022,7,Dipimed,5,32,160
+2022,7,Buscopan Composto,20,15,313
+2022,7,Vick Vaporub,10,12,130
+2022,7,OZEMIC,972,300,291600
+2022,7,Saxenda,700,15,10500
+2022,7,Desodorante Rexona,18,22,396
+2022,7,Desodorante Dove,20,25,500
+2022,7,Fralda Huggies,40,12,480
+2022,7,Ivermectina VMC,20,15,300
+2022,7,Hidratante Labial Nivea,30,33,990
+2022,7,Xampu Pantene,18,85,1530
+2022,7,Xampu Elseve,22,69,1518
+2022,7,Xampu Dove,25,78,1950
+2022,7,Xampu Clear,22,44,968
+2022,7,Xampu Seda,14,32,448
+2022,7,Xampu Doctor,33,32,1056
+2022,7,Xampu Palmolive,21,60,1260
+2022,7,Alcool em Gel,15,150,2250
+2022,7,Escova de Dente,7,78,546
+2022,7,Absorvente ,8,3,24
+2022,7,Lenço umidecido,10,2,20
+2022,7,Condicionador Pantene,15,32,480
+2022,7,Condicionador Elseve,13,22,286
+2022,7,Condicionador Dove,14,15,210
+2022,7,Condicionador Clear,15,16,240
+2022,7,Condicionador Seda,11,7,77
+2022,7,Condicionador Doctor,22,12,264
+2022,7,Condicionador Palmolive,11,8,88
+2022,7,Glimatin 400mg,1500,8,12000
+2022,8,Cimegripe,12,9,108
+2022,8,Neosoro AD,6,7,42
+2022,8,Maxalgina,15,12,180
+2022,8,Dipirona Sódica,5,15,75
+2022,8,Dorflex,17,11,187
+2022,8,Ciclo 21,8,2,16
+2022,8,Novalgina,20,3,60
+2022,8,Glifage XR,9,25,225
+2022,8,Losartana Potassica,4,8,32
+2022,8,Cit. Sildenafila,5,5,25
+2022,8,Puran T4,19,8,152
+2022,8,Torsilax,11,9,106
+2022,8,Loratamed,20,5,100
+2022,8,Sorimax,8,12,96
+2022,8,Salonpas,17,7,119
+2022,8,Aradois,10,2,20
+2022,8,Hidroclorotiazida,3,30,90
+2022,8,Dipimed,5,36,180
+2022,8,Buscopan Composto,20,25,522
+2022,8,Vick Vaporub,10,33,359
+2022,8,OZEMIC,972,33,32076
+2022,8,Saxenda,700,15,10500
+2022,8,Desodorante Rexona,18,33,594
+2022,8,Desodorante Dove,20,2,40
+2022,8,Fralda Huggies,40,65,2600
+2022,8,Ivermectina VMC,20,25,500
+2022,8,Hidratante Labial Nivea,30,32,960
+2022,8,Xampu Pantene,18,15,270
+2022,8,Xampu Elseve,22,12,264
+2022,8,Xampu Dove,25,300,7500
+2022,8,Xampu Clear,22,15,330
+2022,8,Xampu Seda,14,22,308
+2022,8,Xampu Doctor,33,25,825
+2022,8,Xampu Palmolive,21,12,252
+2022,8,Alcool em Gel,15,15,225
+2022,8,Escova de Dente,7,33,231
+2022,8,Absorvente ,8,85,680
+2022,8,Lenço umidecido,10,69,690
+2022,8,Condicionador Pantene,15,78,1170
+2022,8,Condicionador Elseve,13,44,572
+2022,8,Condicionador Dove,14,32,448
+2022,8,Condicionador Clear,15,32,480
+2022,8,Condicionador Seda,11,60,660
+2022,8,Condicionador Doctor,22,150,3300
+2022,8,Condicionador Palmolive,11,78,858
+2022,8,Glimatin 400mg,1500,3,4500
+2022,9,Cimegripe,12,2,24
+2022,9,Neosoro AD,6,32,192
+2022,9,Maxalgina,15,22,330
+2022,9,Dipirona Sódica,5,15,75
+2022,9,Dorflex,17,16,272
+2022,9,Ciclo 21,8,7,56
+2022,9,Novalgina,20,12,240
+2022,9,Glifage XR,9,8,72
+2022,9,Losartana Potassica,4,8,32
+2022,9,Cit. Sildenafila,5,9,45
+2022,9,Puran T4,19,7,133
+2022,9,Torsilax,11,12,141
+2022,9,Loratamed,20,15,300
+2022,9,Sorimax,8,11,88
+2022,9,Salonpas,17,2,34
+2022,9,Aradois,10,3,30
+2022,9,Hidroclorotiazida,3,25,75
+2022,9,Dipimed,5,8,40
+2022,9,Buscopan Composto,20,5,104
+2022,9,Vick Vaporub,10,8,87
+2022,9,OZEMIC,972,9,8748
+2022,9,Saxenda,700,5,3500
+2022,9,Desodorante Rexona,18,12,216
+2022,9,Desodorante Dove,20,7,140
+2022,9,Fralda Huggies,40,2,80
+2022,9,Ivermectina VMC,20,30,600
+2022,9,Hidratante Labial Nivea,30,36,1080
+2022,9,Xampu Pantene,18,25,450
+2022,9,Xampu Elseve,22,33,726
+2022,9,Xampu Dove,25,33,825
+2022,9,Xampu Clear,22,15,330
+2022,9,Xampu Seda,14,33,462
+2022,9,Xampu Doctor,33,2,66
+2022,9,Xampu Palmolive,21,65,1365
+2022,9,Alcool em Gel,15,25,375
+2022,9,Escova de Dente,7,32,224
+2022,9,Absorvente ,8,15,120
+2022,9,Lenço umidecido,10,12,120
+2022,9,Condicionador Pantene,15,300,4500
+2022,9,Condicionador Elseve,13,15,195
+2022,9,Condicionador Dove,14,22,308
+2022,9,Condicionador Clear,15,25,375
+2022,9,Condicionador Seda,11,12,132
+2022,9,Condicionador Doctor,22,15,330
+2022,9,Condicionador Palmolive,11,33,363
+2022,9,Glimatin 400mg,1500,85,127500
+2022,10,Cimegripe,12,69,828
+2022,10,Neosoro AD,6,78,468
+2022,10,Maxalgina,15,44,660
+2022,10,Dipirona Sódica,5,32,160
+2022,10,Dorflex,17,32,544
+2022,10,Ciclo 21,8,60,480
+2022,10,Novalgina,20,150,3000
+2022,10,Glifage XR,9,78,702
+2022,10,Losartana Potassica,4,3,12
+2022,10,Cit. Sildenafila,5,2,10
+2022,10,Puran T4,19,32,608
+2022,10,Torsilax,11,22,259
+2022,10,Loratamed,20,15,300
+2022,10,Sorimax,8,16,128
+2022,10,Salonpas,17,7,119
+2022,10,Aradois,10,12,120
+2022,10,Hidroclorotiazida,3,8,24
+2022,10,Dipimed,5,8,40
+2022,10,Buscopan Composto,20,9,187
+2022,10,Vick Vaporub,10,7,76
+2022,10,OZEMIC,972,12,11664
+2022,10,Saxenda,700,15,10500
+2022,10,Desodorante Rexona,18,11,198
+2022,10,Desodorante Dove,20,2,40
+2022,10,Fralda Huggies,40,25,1000
+2022,10,Ivermectina VMC,20,32,640
+2022,10,Hidratante Labial Nivea,30,15,450
+2022,10,Xampu Pantene,18,12,216
+2022,10,Xampu Elseve,22,300,6600
+2022,10,Xampu Dove,25,15,375
+2022,10,Xampu Clear,22,22,484
+2022,10,Xampu Seda,14,25,350
+2022,10,Xampu Doctor,33,12,396
+2022,10,Xampu Palmolive,21,15,315
+2022,10,Alcool em Gel,15,33,495
+2022,10,Escova de Dente,7,85,595
+2022,10,Absorvente ,8,69,552
+2022,10,Lenço umidecido,10,78,780
+2022,10,Condicionador Pantene,15,44,660
+2022,10,Condicionador Elseve,13,32,416
+2022,10,Condicionador Dove,14,32,448
+2022,10,Condicionador Clear,15,60,900
+2022,10,Condicionador Seda,11,150,1650
+2022,10,Condicionador Doctor,22,78,1716
+2022,10,Condicionador Palmolive,11,3,33
+2022,10,Glimatin 400mg,1500,2,3000
+2022,11,Cimegripe,12,32,384
+2022,11,Neosoro AD,6,22,132
+2022,11,Maxalgina,15,15,225
+2022,11,Dipirona Sódica,5,16,80
+2022,11,Dorflex,17,7,119
+2022,11,Ciclo 21,8,12,96
+2022,11,Novalgina,20,8,160
+2022,11,Glifage XR,9,8,72
+2022,11,Losartana Potassica,4,9,36
+2022,11,Cit. Sildenafila,5,7,35
+2022,11,Puran T4,19,12,228
+2022,11,Torsilax,11,15,177
+2022,11,Loratamed,20,11,220
+2022,11,Sorimax,8,2,16
+2022,11,Salonpas,17,3,51
+2022,11,Aradois,10,25,250
+2022,11,Hidroclorotiazida,3,8,24
+2022,11,Dipimed,5,5,25
+2022,11,Buscopan Composto,20,8,167
+2022,11,Vick Vaporub,10,9,98
+2022,11,OZEMIC,972,5,4860
+2022,11,Saxenda,700,12,8400
+2022,11,Desodorante Rexona,18,7,126
+2022,11,Desodorante Dove,20,2,40
+2022,11,Fralda Huggies,40,30,1200
+2022,11,Ivermectina VMC,20,36,720
+2022,11,Hidratante Labial Nivea,30,25,750
+2022,11,Xampu Pantene,18,33,594
+2022,11,Xampu Elseve,22,33,726
+2022,11,Xampu Dove,25,15,375
+2022,11,Xampu Clear,22,33,726
+2022,11,Xampu Seda,14,2,28
+2022,11,Xampu Doctor,33,65,2145
+2022,11,Xampu Palmolive,21,25,525
+2022,11,Alcool em Gel,15,32,480
+2022,11,Escova de Dente,7,15,105
+2022,11,Absorvente ,8,12,96
+2022,11,Lenço umidecido,10,300,3000
+2022,11,Condicionador Pantene,15,15,225
+2022,11,Condicionador Elseve,13,22,286
+2022,11,Condicionador Dove,14,25,350
+2022,11,Condicionador Clear,15,12,180
+2022,11,Condicionador Seda,11,15,165
+2022,11,Condicionador Doctor,22,33,726
+2022,11,Condicionador Palmolive,11,85,935
+2022,11,Glimatin 400mg,1500,69,103500
+2022,12,Cimegripe,12,78,936
+2022,12,Neosoro AD,6,44,264
+2022,12,Maxalgina,15,32,480
+2022,12,Dipirona Sódica,5,32,160
+2022,12,Dorflex,17,60,1020
+2022,12,Ciclo 21,8,150,1200
+2022,12,Novalgina,20,78,1560
+2022,12,Glifage XR,9,3,27
+2022,12,Losartana Potassica,4,2,8
+2022,12,Cit. Sildenafila,5,32,160
+2022,12,Puran T4,19,22,418
+2022,12,Torsilax,11,15,177
+2022,12,Loratamed,20,16,320
+2022,12,Sorimax,8,7,56
+2022,12,Salonpas,17,12,204
+2022,12,Aradois,10,8,80
+2022,12,Hidroclorotiazida,3,8,24
+2022,12,Dipimed,5,9,45
+2022,12,Buscopan Composto,20,7,146
+2022,12,Vick Vaporub,10,12,130
+2022,12,OZEMIC,972,15,14580
+2022,12,Saxenda,700,11,7700
+2022,12,Desodorante Rexona,18,2,36
+2022,12,Desodorante Dove,20,3,60
+2022,12,Fralda Huggies,40,25,1000
+2022,12,Ivermectina VMC,20,8,160
+2022,12,Hidratante Labial Nivea,30,5,150
+2022,12,Xampu Pantene,18,8,144
+2022,12,Xampu Elseve,22,9,198
+2022,12,Xampu Dove,25,5,125
+2022,12,Xampu Clear,22,12,264
+2022,12,Xampu Seda,14,7,98
+2022,12,Xampu Doctor,33,2,66
+2022,12,Xampu Palmolive,21,30,630
+2022,12,Alcool em Gel,15,36,540
+2022,12,Escova de Dente,7,25,175
+2022,12,Absorvente ,8,33,264
+2022,12,Lenço umidecido,10,33,330
+2022,12,Condicionador Pantene,15,15,225
+2022,12,Condicionador Elseve,13,33,429
+2022,12,Condicionador Dove,14,2,28
+2022,12,Condicionador Clear,15,65,975
+2022,12,Condicionador Seda,11,25,275
+2022,12,Condicionador Doctor,22,32,704
+2022,12,Condicionador Palmolive,11,15,165
+2022,12,Glimatin 400mg,1500,12,18000
