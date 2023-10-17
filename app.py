@@ -1,8 +1,3 @@
-from sqlalchemy.sql import select
-from flask_sqlalchemy import SQLAlchemy
-from flask_login import LoginManager, UserMixin
-import configparser
-import os
 import dash
 
 FONT_AWESOME = ["https://use.fontawesome.com/releases/v5.10.2/css/all.css"]
